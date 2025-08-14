@@ -6,7 +6,7 @@ Este projeto consiste na reprodução de uma página inspirada na plataforma do 
 
 ## 📸 Prévia do Projeto
 
-![Prévia do Projeto](./assets/banner-readme.png) <!-- Ajuste para o caminho correto da imagem de demonstração -->
+![Prévia do Projeto](./assets/banner.png)
 
 ---
 
