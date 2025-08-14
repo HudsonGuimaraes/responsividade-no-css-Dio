@@ -1,27 +1,66 @@
-Projeto: Responsividade no CSS
+# 📱 Projeto: Responsividade no CSS
 
-VISÃO GERAL
-Reproduzir a página da incrível plataforma do Discord colocando em prática todos os conceitos aprendidos até aqui, principalmente sobre Responsividade no CSS..
+Este projeto consiste na reprodução de uma página inspirada na plataforma do **Discord**, com foco no estudo e aplicação de conceitos de **responsividade** utilizando **HTML5** e **CSS3**.
 
-DESAFIOS
-Construir pagina web com HTML e CSS, colocando na prática os fundamentos do CSS, as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprender ao longo da trilha.
+---
 
-Cores
-cor-de-fundo-primaria: #FFF;
-cor-de-fundo-secundaria: #F6F6F6;
-cor-de-fundo-terciaria: #23272A;
-cor-botao-claro: #FFF;
-cor-botao-escuro: #23272A;
-cor-texto-claro: #FFF;
-cor-texto-escuro: #23272A;
+## 📸 Prévia do Projeto
 
-Tipografia
-fonte-titulo: normal 400 3.5rem/3.5rem "Luckiest Guy", cursive;
-fonte-subtitulo: normal 800 2.5rem/2.5rem "Open-sans", sans-serif;
-fonte-texto: normal 400 1rem/1.2rem "Open-sans", sans-serif;
+![Prévia do Projeto](./assets/banner-readme.png) <!-- Ajuste para o caminho correto da imagem de demonstração -->
 
-Construído com
-Marcação HTML5 semântica
-Propriedades personalizadas CSS
-Flexbox
-Fluxo de trabalho que prioriza os dispositivos móveis
+---
+
+## 🎯 Objetivo
+
+- Reproduzir a página da plataforma do Discord, aplicando conceitos fundamentais de **CSS**, com ênfase em **design responsivo**.
+- Exercitar boas práticas de estruturação HTML e estilização CSS.
+- Aplicar unidades de medida relativas e absolutas, variáveis CSS e técnicas de media queries.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **Google Fonts**
+- **Flexbox**
+- **Media Queries**
+
+---
+
+## 📚 Conceitos Praticados
+
+- Estruturação semântica de páginas HTML.
+- Estilização com variáveis CSS.
+- Uso de **Flexbox** para criação de layouts adaptáveis.
+- Aplicação de **media queries** para diferentes tamanhos de tela.
+- Imagens responsivas com `object-fit` e `object-position`.
+
+---
+
+## 📂 Estrutura de Pastas
+
+```bash
+.
+├── index.html
+├── src/
+│   └── estilo.css
+└── assets/
+    ├── banner.png
+    ├── img-section-01.png
+    ├── img-section-02.png
+    ├── img-section-03.png
+    ├── img-section-04.png
+    └── logo.png
+
+📱 Responsividade
+
+Layout adaptado para desktop, tablet e mobile.
+
+Ajustes automáticos de texto, imagens e botões para melhor experiência em telas menores.
+
+📌 Observações
+
+Este projeto foi desenvolvido como parte do Desafio de Responsividade da DIO.
+
+A imagem principal do banner deve estar localizada corretamente em assets/banner.png para ser exibida.
